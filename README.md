@@ -1,7 +1,7 @@
-# nanodegree_projects
-Data Analyst Nanodegree - Udacity
-This repository contains projects that I have done for my Data Analyst Nanodegree course through Udacity.
-Most of these project were done in python using Jupyter Notebook.
+# DAND project 4: Wrangle and Analyze Data
+
+This is a project from the course [Data Analyst Nanodegree - Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
+This repository contains all files created and used in that project.
 
 Right now I am not sure how others can contribute to this.
 However, suggestion are welcome.
